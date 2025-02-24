@@ -6,11 +6,11 @@ st.title("Data Exploration - CrystalKNN")
 
 # Show first 5 rows
 st.subheader("Dataset Head (First 5 Rows)")
-st.image('./assets/head5.png')
+st.image('assets/head5.png')
 
 # Show dataset description
 st.subheader("Dataset Description")
-st.image('./assets/description.png')
+st.image('assets/description.png')
 
 # Select a categorical column for bar chart
 st.subheader("Bar Chart Visualization - Target Values")
