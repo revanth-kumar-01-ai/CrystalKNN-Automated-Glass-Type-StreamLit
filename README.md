@@ -52,7 +52,7 @@ This project automates the classification of glass types using machine learning,
 - **Usage Instructions**:
   1. Clone the repository:
      ```bash
-     git clone https://github.com/your-repo/CrystalKNN.git
+     git clone https://github.com/revanth-kumar-01-ai/CrystalKNN-Automated-Glass-Type-StreamLit.git
      cd CrystalKNN
      ```
   2. Install dependencies:
