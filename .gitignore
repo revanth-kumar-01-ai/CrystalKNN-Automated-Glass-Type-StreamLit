@@ -14,9 +14,9 @@ venv/
 *.env
 
 # 📊 Ignore dataset files (if large) (after on)
-# data/
-# *.csv
-# *.xlsx
+data/
+*.csv
+*.xlsx
 
 # 🤖 Ignore ML model files
 # models/
